@@ -148,7 +148,7 @@ sections:
     type: features_section
   - title: Publications
     features:
-      - title: lorem-ipsum
+      - title: ''
         content: >-
           ## Lorem ipsum
 
