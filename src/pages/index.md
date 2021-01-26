@@ -25,7 +25,7 @@ sections:
   - type: features_section
     title: Articles
     features:
-      - title: Technicle Articles
+      - title: Technical Articles
         content: |
           This place will have technical articles
         align: left
