@@ -138,7 +138,8 @@ sections:
         image_position: left
         actions:
           - label: Full Report
-            url: lorem-ipsum
+            url: >-
+              https://github.com/anik-jha/course_projects/blob/master/AME520_Understanding_Activity_Report.pdf
             style: link
             new_window: false
             no_follow: false
