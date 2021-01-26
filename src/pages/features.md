@@ -1,5 +1,5 @@
 ---
-title: Features
+title: AboutMe
 sections:
   - type: hero_section
     title: Features
