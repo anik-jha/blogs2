@@ -152,5 +152,8 @@ sections:
   - title: Honors and Awards
     features: []
     type: features_section
+  - title: lorem-ipsum
+    features: []
+    type: features_section
 template: advanced
 ---
