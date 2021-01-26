@@ -103,19 +103,16 @@ sections:
       - title: RoboHelper
         content: >
           • Implemented facial recognition security features that allow only
-          certified users to control the Turtlebot 
+          certified users to control the Turtlebot
 
 
           • Executed autonomous movement of Turtlebot using SLAM and
           alternatively configured manual movements using hand gestures through
-          LEAP Motion camera in ROS 
+          LEAP Motion camera in ROS
 
 
           • Implemented basic object recognition module to notify owners for
           in-stock and out-of-stock items
-
-
-          Full report
         align: left
         image_alt: lorem-ipsum
         image_position: left
