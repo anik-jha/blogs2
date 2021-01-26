@@ -194,17 +194,9 @@ sections:
   - title: Skills
     features:
       - title: ''
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Python, PyTorch, Keras, scikit-learn, NLTK, Linux, SQL, Git, Tableau,
+          Data Analytics
         align: left
         image_alt: lorem-ipsum
         image_position: left
