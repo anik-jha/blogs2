@@ -173,7 +173,7 @@ sections:
       - title: ''
         content: >
           • 'Engineering Grad Fellowship' at Arizona State University, Spring
-          2018 
+          2018
 
 
           • ‘Graduate Research Assistantship’ at Arizona State University, Fall
@@ -181,11 +181,10 @@ sections:
 
 
           • ‘Decision Scientist – Beginner’ certification at Mu-Sigma Inc., May
-          2016 
+          2016
 
 
-          • ‘Spot award’ for independently handling critical ERW and PMD
-          projects at Mu Sigma Inc., March 2016
+          • ‘Spot award’ at Mu Sigma Inc., March 2016
         align: left
         image_alt: lorem-ipsum
         image_position: left
