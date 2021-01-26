@@ -73,7 +73,7 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
-      - title: Feature 3
+      - title: Data Scientist
         content: >
           • Designed a completely automated tool to slash the average count of
           daily errors by over 75% at Error Review Workstation (ERW) by
