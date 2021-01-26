@@ -149,17 +149,19 @@ sections:
   - title: Publications
     features:
       - title: ''
-        content: >-
-          ## Lorem ipsum
+        content: >
+          • “CS-VQA: Visual Question Answering with Compressively Sensed Images”
+          to appear in International Conference on Image Processing (ICIP),
+          2018. Also presented the poster at VQA workshop, Computer vision and
+          Pattern Recognition (CVPR), 2018 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          • “Design and Development of 3-axis Reaction Wheels for STUDSAT-2” in
+          IEEE Aerospace Conference (IAC), 2015 
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          • Patented “Three Axis Reaction Wheel Actuator System for Small
+          Satellites”, India 5797/CHE/2014 on Nov 18, 2014
         align: left
         image_alt: lorem-ipsum
         image_position: left
