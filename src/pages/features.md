@@ -126,17 +126,13 @@ sections:
             type: action
         type: feature
       - title: 'Musical Expressions: Synthesizing Music from Facial Expressions'
-        content: >-
-          ## Lorem ipsum
+        content: >
+          • Built an experiential system to create emotional awareness, of a
+          given person, by harnessing his/her facial expressions  
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          • Generated distinguished audio feedback based on the class of
+          expressions to create the emotional awareness
         align: left
         image_alt: lorem-ipsum
         image_position: left
