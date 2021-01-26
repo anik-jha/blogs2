@@ -146,7 +146,7 @@ sections:
             type: action
         type: feature
     type: features_section
-  - title: lorem-ipsum
+  - title: Publications
     features: []
     type: features_section
 template: advanced
