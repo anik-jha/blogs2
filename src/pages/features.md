@@ -98,7 +98,7 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
-  - title: lorem-ipsum
+  - title: Projects
     features: []
     type: features_section
 template: advanced
