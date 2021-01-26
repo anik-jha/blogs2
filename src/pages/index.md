@@ -5,7 +5,7 @@ sections:
     title: Anik Jha
     subtitle: Machine Learning Engineer
     actions:
-      - label: Learn More
+      - label: About Me
         url: /features
         style: primary
       - label: Contact Us
