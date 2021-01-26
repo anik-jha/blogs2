@@ -137,7 +137,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         actions:
-          - label: lorem-ipsum
+          - label: Full Report
             url: lorem-ipsum
             style: link
             new_window: false
