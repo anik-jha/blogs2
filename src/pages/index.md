@@ -52,7 +52,7 @@ sections:
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: Place for more things
+    title: Place for more things coming
     subtitle: more details
     actions:
       - label: Learn More
