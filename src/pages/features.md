@@ -12,34 +12,34 @@ sections:
           • Designing an in-house neural network to generate the optimal path
           for the car, based on its location, the presence of other traffic
           elements and their movements around the car as a member of a
-          four-person team 
+          four-person team
 
 
           • Implemented and enhanced a neural-network based methodology to
           predict the trajectories of the adjacent vehicles for a self-driving
-          car 
+          car
 
 
           • Implemented and integrated a Lidar and camera-based models for
-          detecting and tracking objects 
+          detecting and tracking objects
 
 
           • Devised sections of motion planning algorithm to enable the car to
           incorporate the behaviors of surrounding traffic elements when making
-          driving decisions 
+          driving decisions
 
 
           • Finetuned networks to classify pedestrian behaviors in urban areas
           to improve the experience in the car when passing near sidewalks
-          and/or crosswalks 
+          and/or crosswalks
 
 
           • Demonstrated Imagry's self-driving car to clients numerous times
-          over the period of last 2 years  
+          over the period of last 2 years
 
 
           • Assisted in building infrastructure for data collection and training
-          deep learning networks 
+          deep learning networks
 
 
           • Performed benchmark testing in the lab as well as on the autonomous
