@@ -48,10 +48,7 @@ sections:
         image: images/imagry0.jpeg
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /about
-            style: primary
+        actions: []
       - title: Research Assistant
         content: >
           • Customized deep learning algorithms on GPU to improve image feature
