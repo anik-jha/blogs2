@@ -100,7 +100,7 @@ sections:
         actions: []
   - title: Projects
     features:
-      - title: lorem-ipsum
+      - title: RoboHelper
         content: >
           • Implemented facial recognition security features that allow only
           certified users to control the Turtlebot 
