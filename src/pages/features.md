@@ -193,7 +193,7 @@ sections:
     type: features_section
   - title: Skills
     features:
-      - title: lorem-ipsum
+      - title: ''
         content: >-
           ## Lorem ipsum
 
