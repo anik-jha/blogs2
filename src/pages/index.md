@@ -6,7 +6,7 @@ sections:
     subtitle: Machine Learning Engineer
     actions:
       - label: About Me
-        url: /features
+        url: /about_me
         style: primary
       - label: Contact Me
         url: /contact
