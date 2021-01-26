@@ -74,10 +74,25 @@ sections:
         image_position: left
         actions: []
       - title: Feature 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          • Designed a completely automated tool to slash the average count of
+          daily errors by over 75% at Error Review Workstation (ERW) by
+          prioritizing the errors encountered in real-time 
+
+
+          • Implemented text analysis of different surveys for an insurance
+          client to understand the satisfaction and pain points of agencies and
+          customer
+
+
+          • Forecasted monthly response rates at invite mix level using multiple
+          forecasting techniques including ARIMA, top-down and bottom-up
+          approaches to help the client devise their strategies for agencies 
+
+
+          • Performed a comparative analysis of shopping study of the client and
+          its competitors at different stages of purchase funnel to identify the
+          scope of improvement at various stages of the funnel
         align: left
         image: images/mu_sigma.jpeg
         image_alt: Feature 3 placeholder image
