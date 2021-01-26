@@ -52,7 +52,7 @@ sections:
           - label: Learn More
             url: /about
             style: primary
-      - title: Feature 2
+      - title: Research Assistant
         content: >
           • Customized deep learning algorithms on GPU to improve image feature
           extraction from ImageNet dataset. Additionally, this improved image
