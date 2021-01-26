@@ -101,17 +101,21 @@ sections:
   - title: Projects
     features:
       - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          • Implemented facial recognition security features that allow only
+          certified users to control the Turtlebot 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          • Executed autonomous movement of Turtlebot using SLAM and
+          alternatively configured manual movements using hand gestures through
+          LEAP Motion camera in ROS 
 
 
-          - Lorem ipsum
+          • Implemented basic object recognition module to notify owners for
+          in-stock and out-of-stock items
 
-          - dolor sit amet
+
+          Full report
         align: left
         image_alt: lorem-ipsum
         image_position: left
