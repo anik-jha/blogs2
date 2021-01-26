@@ -7,7 +7,7 @@ sections:
     align: center
   - type: features_section
     features:
-      - title: Feature 1
+      - title: Machine Learning Engineer
         content: >
           • Designing an in-house neural network to generate the optimal path
           for the car, based on its location, the presence of other traffic
