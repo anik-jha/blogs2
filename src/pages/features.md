@@ -125,7 +125,7 @@ sections:
             no_follow: false
             type: action
         type: feature
-      - title: lorem-ipsum
+      - title: 'Musical Expressions: Synthesizing Music from Facial Expressions'
         content: >-
           ## Lorem ipsum
 
