@@ -170,7 +170,7 @@ sections:
     type: features_section
   - title: Honors and Awards
     features:
-      - title: lorem-ipsum
+      - title: ''
         content: >-
           ## Lorem ipsum
 
