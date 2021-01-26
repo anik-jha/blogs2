@@ -171,17 +171,21 @@ sections:
   - title: Honors and Awards
     features:
       - title: ''
-        content: >-
-          ## Lorem ipsum
+        content: >
+          • 'Engineering Grad Fellowship' at Arizona State University, Spring
+          2018 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          • ‘Graduate Research Assistantship’ at Arizona State University, Fall
+          2017-Summer 2018
 
 
-          - Lorem ipsum
+          • ‘Decision Scientist – Beginner’ certification at Mu-Sigma Inc., May
+          2016 
 
-          - dolor sit amet
+
+          • ‘Spot award’ for independently handling critical ERW and PMD
+          projects at Mu Sigma Inc., March 2016
         align: left
         image_alt: lorem-ipsum
         image_position: left
