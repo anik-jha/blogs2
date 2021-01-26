@@ -97,9 +97,6 @@ sections:
         image: images/mu_sigma.jpeg
         image_alt: Feature 3 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /blog
-            style: primary
+        actions: []
 template: advanced
 ---
