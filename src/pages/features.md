@@ -53,10 +53,24 @@ sections:
             url: /about
             style: primary
       - title: Feature 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          • Customized deep learning algorithms on GPU to improve image feature
+          extraction from ImageNet dataset. Additionally, this improved image
+          classification for ‘Visual Question and Answering: VQA’, an image +
+          language-based AI application  
+
+
+          • Improvised algorithms associated with deeper Long Short-Term Memory
+          (LSTM) units in TensorFlow to improve the textual feature extraction
+          for VQA application 
+
+
+          • Attained accuracies of 54% and 51% for the VQA task with 25% and 1%
+          measurement rates of VQA v1.0 images, respectively 
+
+
+          • Analysed methodologies to minimize the relative error in predictions
+          (predicting dog instead of van, for a cat) for VQA task
         align: left
         image: images/cropped-gml.png
         image_alt: Feature 2 placeholder image
