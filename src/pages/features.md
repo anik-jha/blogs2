@@ -146,5 +146,8 @@ sections:
             type: action
         type: feature
     type: features_section
+  - title: lorem-ipsum
+    features: []
+    type: features_section
 template: advanced
 ---
